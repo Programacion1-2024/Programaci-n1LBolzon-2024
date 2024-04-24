@@ -1,0 +1,14 @@
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\bin\Debug\net8.0\ejerciciosFOR.exe
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\bin\Debug\net8.0\ejerciciosFOR.deps.json
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\bin\Debug\net8.0\ejerciciosFOR.runtimeconfig.json
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\bin\Debug\net8.0\ejerciciosFOR.dll
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\bin\Debug\net8.0\ejerciciosFOR.pdb
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\obj\Debug\net8.0\ejerciciosFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\obj\Debug\net8.0\ejerciciosFOR.AssemblyInfoInputs.cache
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\obj\Debug\net8.0\ejerciciosFOR.AssemblyInfo.cs
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\obj\Debug\net8.0\ejerciciosFOR.csproj.CoreCompileInputs.cache
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\obj\Debug\net8.0\ejerciciosFOR.dll
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\obj\Debug\net8.0\refint\ejerciciosFOR.dll
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\obj\Debug\net8.0\ejerciciosFOR.pdb
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\obj\Debug\net8.0\ejerciciosFOR.genruntimeconfig.cache
+C:\Users\leosi\source\repos\ejerciciosFOR\ejerciciosFOR\obj\Debug\net8.0\ref\ejerciciosFOR.dll
