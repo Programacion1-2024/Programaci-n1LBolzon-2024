@@ -1,0 +1,14 @@
+C:\Users\leosi\source\repos\EjerciciosWhile\bin\Debug\net8.0\EjerciciosWhile.exe
+C:\Users\leosi\source\repos\EjerciciosWhile\bin\Debug\net8.0\EjerciciosWhile.deps.json
+C:\Users\leosi\source\repos\EjerciciosWhile\bin\Debug\net8.0\EjerciciosWhile.runtimeconfig.json
+C:\Users\leosi\source\repos\EjerciciosWhile\bin\Debug\net8.0\EjerciciosWhile.dll
+C:\Users\leosi\source\repos\EjerciciosWhile\bin\Debug\net8.0\EjerciciosWhile.pdb
+C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.AssemblyInfoInputs.cache
+C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.AssemblyInfo.cs
+C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.csproj.CoreCompileInputs.cache
+C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.dll
+C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\refint\EjerciciosWhile.dll
+C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.pdb
+C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.genruntimeconfig.cache
+C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\ref\EjerciciosWhile.dll
