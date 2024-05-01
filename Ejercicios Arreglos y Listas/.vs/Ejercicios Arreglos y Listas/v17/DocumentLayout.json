@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leosi\\source\\repos\\Ejercicios Arreglos y Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85247CE5-E634-4991-82C9-5F5AE79DB3EB}|Ejercicios Arreglos y Listas\\Ejercicios Arreglos y Listas.csproj|c:\\users\\leosi\\source\\repos\\ejercicios arreglos y listas\\ejercicios arreglos y listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85247CE5-E634-4991-82C9-5F5AE79DB3EB}|Ejercicios Arreglos y Listas\\Ejercicios Arreglos y Listas.csproj|solutionrelative:ejercicios arreglos y listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leosi\\source\\repos\\Ejercicios Arreglos y Listas\\Ejercicios Arreglos y Listas\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios Arreglos y Listas\\Program.cs",
+              "ToolTip": "C:\\Users\\leosi\\source\\repos\\Ejercicios Arreglos y Listas\\Ejercicios Arreglos y Listas\\Program.cs",
+              "RelativeToolTip": "Ejercicios Arreglos y Listas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:53:19.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
