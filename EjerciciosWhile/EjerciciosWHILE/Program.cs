@@ -116,35 +116,43 @@ class Program
 //Ejercicio 4: Para calcular el total de una factura, el usuario ingresará pares de datos Costo unitario y cantidad comprada; cuando se ingrese costo 0 finaliza el ingreso de datos;
 //informar el total adeudado.
 
-class program
+using System.Data;
+/*
+class Program
 {
     static void Main(string[] args)
     {
         Console.WriteLine("Por favor ingrese el costo unitario y la cantidad de unidades compradas: ");
-        double costoTotal = 0 
-        double costoUnitario = 1
-            Console.WriteLine("Ingrese el costo unitario ");
+        double costoTotal = 0;
+        double costoUnitario = 1;
+        int unidadComprada = 0;
+            
             while ( costoUnitario != 0)
             {
-            if (double.TryParse(Console.ReadLine() ? replace(",", "."), out double costoUnirario));
-
-                Console.WriteLine("Ingrese la cantidad de unidades compradas");
-                if (double.TryParse(Console.ReadLine() ? replace(",", "."), out double unidad))
-                {
-                costoTotal += costoUnitario * unidad;
-                }
+                Console.WriteLine("Ingrese el costo unitario ");
+                if (double.TryParse(Console.ReadLine()?.Replace(",", "."), out costoUnitario))
+                { 
+                        Console.WriteLine("Ingrese la cantidad de unidades compradas");
+                        if (int.TryParse(Console.ReadLine()?.Replace(",", "."), out unidadComprada))
+                        {
+                            costoTotal += costoUnitario * unidadComprada;
+                        }
+                        else 
+                        {
+                            Console.WriteLine("Ingrese un dato valido");
+                            unidadComprada = 0;
+                        }
+                }            
                 else
                 {
-                Console.WriteLine("Ingrese un dato valido ");
-                unidad--;
+                    Console.WriteLine("Ingrese un dato valido ");
+                    costoUnitario = 1;
                 }
-            }
-            else
-            {
-            Console.WriteLine("Ingrese un dato valido ");
-            costoUnitario = 1;
-            
             }
             Console.WriteLine($"El total adeudado es de {costoTotal} pesos");
     }
 }
+*/
+
+
+

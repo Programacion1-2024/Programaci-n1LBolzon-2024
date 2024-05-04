@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosi\\source\\repos\\EjerciciosWHILE\\EjerciciosWHILE\\EjerciciosWHILE.csproj": {}
+    "C:\\Users\\leosi\\OneDrive\\Documentos\\GitHub\\Programaci-n1LBolzon-2024\\EjerciciosWhile\\EjerciciosWHILE\\EjerciciosWHILE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosi\\source\\repos\\EjerciciosWHILE\\EjerciciosWHILE\\EjerciciosWHILE.csproj": {
+    "C:\\Users\\leosi\\OneDrive\\Documentos\\GitHub\\Programaci-n1LBolzon-2024\\EjerciciosWhile\\EjerciciosWHILE\\EjerciciosWHILE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosi\\source\\repos\\EjerciciosWHILE\\EjerciciosWHILE\\EjerciciosWHILE.csproj",
+        "projectUniqueName": "C:\\Users\\leosi\\OneDrive\\Documentos\\GitHub\\Programaci-n1LBolzon-2024\\EjerciciosWhile\\EjerciciosWHILE\\EjerciciosWHILE.csproj",
         "projectName": "EjerciciosWHILE",
-        "projectPath": "C:\\Users\\leosi\\source\\repos\\EjerciciosWHILE\\EjerciciosWHILE\\EjerciciosWHILE.csproj",
+        "projectPath": "C:\\Users\\leosi\\OneDrive\\Documentos\\GitHub\\Programaci-n1LBolzon-2024\\EjerciciosWhile\\EjerciciosWHILE\\EjerciciosWHILE.csproj",
         "packagesPath": "C:\\Users\\leosi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosi\\source\\repos\\EjerciciosWHILE\\EjerciciosWHILE\\obj\\",
+        "outputPath": "C:\\Users\\leosi\\OneDrive\\Documentos\\GitHub\\Programaci-n1LBolzon-2024\\EjerciciosWhile\\EjerciciosWHILE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

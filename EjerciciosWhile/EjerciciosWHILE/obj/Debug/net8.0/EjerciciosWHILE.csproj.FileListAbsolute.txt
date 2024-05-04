@@ -3,3 +3,13 @@ C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWh
 C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\obj\Debug\net8.0\EjerciciosWHILE.AssemblyInfo.cs
 C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\obj\Debug\net8.0\EjerciciosWHILE.csproj.CoreCompileInputs.cache
 C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\obj\Debug\net8.0\EjerciciosWHILE.sourcelink.json
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\bin\Debug\net8.0\EjerciciosWHILE.exe
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\bin\Debug\net8.0\EjerciciosWHILE.deps.json
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\bin\Debug\net8.0\EjerciciosWHILE.runtimeconfig.json
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\bin\Debug\net8.0\EjerciciosWHILE.dll
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\bin\Debug\net8.0\EjerciciosWHILE.pdb
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\obj\Debug\net8.0\EjerciciosWHILE.dll
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\obj\Debug\net8.0\refint\EjerciciosWHILE.dll
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\obj\Debug\net8.0\EjerciciosWHILE.pdb
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\obj\Debug\net8.0\EjerciciosWHILE.genruntimeconfig.cache
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\EjerciciosWHILE\obj\Debug\net8.0\ref\EjerciciosWHILE.dll
