@@ -82,7 +82,7 @@ class Program
 
 // Ejercicio 3 El usuario ingresará una lista de nombre de persona, cuando se ingresé un nombre vacío, sin datos; el sistema informará cuántos nombres de han ingresado.
 
-using static System.Runtime.InteropServices.JavaScript.JSType;
+//using static System.Runtime.InteropServices.JavaScript.JSType;
 /*
 class Program
 {
@@ -113,4 +113,38 @@ class Program
 */
 
 
-//Ejercicio 4 
+//Ejercicio 4: Para calcular el total de una factura, el usuario ingresará pares de datos Costo unitario y cantidad comprada; cuando se ingrese costo 0 finaliza el ingreso de datos;
+//informar el total adeudado.
+
+class program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Por favor ingrese el costo unitario y la cantidad de unidades compradas: ");
+        double costoTotal = 0 
+        double costoUnitario = 1
+            Console.WriteLine("Ingrese el costo unitario ");
+            while ( costoUnitario != 0)
+            {
+            if (double.TryParse(Console.ReadLine() ? replace(",", "."), out double costoUnirario));
+
+                Console.WriteLine("Ingrese la cantidad de unidades compradas");
+                if (double.TryParse(Console.ReadLine() ? replace(",", "."), out double unidad))
+                {
+                costoTotal += costoUnitario * unidad;
+                }
+                else
+                {
+                Console.WriteLine("Ingrese un dato valido ");
+                unidad--;
+                }
+            }
+            else
+            {
+            Console.WriteLine("Ingrese un dato valido ");
+            costoUnitario = 1;
+            
+            }
+            Console.WriteLine($"El total adeudado es de {costoTotal} pesos");
+    }
+}

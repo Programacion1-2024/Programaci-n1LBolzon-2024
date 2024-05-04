@@ -12,3 +12,11 @@ C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\refint\EjerciciosWh
 C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.pdb
 C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.genruntimeconfig.cache
 C:\Users\leosi\source\repos\EjerciciosWhile\obj\Debug\net8.0\ref\EjerciciosWhile.dll
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.AssemblyInfoInputs.cache
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.AssemblyInfo.cs
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.csproj.CoreCompileInputs.cache
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.sourcelink.json
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.dll
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\obj\Debug\net8.0\refint\EjerciciosWhile.dll
+C:\Users\leosi\OneDrive\Documentos\GitHub\Programaci-n1LBolzon-2024\EjerciciosWhile\obj\Debug\net8.0\EjerciciosWhile.pdb
