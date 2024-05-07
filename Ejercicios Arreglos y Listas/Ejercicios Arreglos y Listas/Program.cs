@@ -98,7 +98,7 @@ class Program
                 i--;
             }
         }
-        Console.WriteLine($"los numemros de la lista son: ");
+        Console.WriteLine("los numemros de la lista son: ");
         foreach (int i in numeros)     //Uso un for para poder recorrer los valores de la lista y mostrarlos en pantalla ya que poniendo solamente numeros[i] no se puede
         {
             Console.WriteLine(i);
@@ -109,3 +109,32 @@ class Program
 
 //Ejercicio 4: Calcular promedio de notas utilizando una lista
 //Consigna: El usuario debe ingresar 5 notas. El programa debe calcular el promedio de estas notas y mostrarlo en la consola. Utiliza una lista para almacenar las notas.
+/*
+class Program
+{
+    static void Main(string[] args)
+    {
+        List<double> numeros = new List<double>();
+        double suma = 0;
+        double contador = 0;
+        Console.WriteLine("Ingrese las 5 notas a las que desee calcular el promedio ");
+        for (double i = 0; i < 5; i++)
+        {
+            Console.WriteLine($"Ingrese la nota {i + 1}");
+            if (double.TryParse(Console.ReadLine()?.Replace(",","."), out double numero))
+            {
+                numeros.Add(numero);
+                contador++;
+                suma += numero;                 
+            }
+            else
+            {
+                Console.WriteLine("Ingrese una nota valida ");                
+                i--;
+            }
+        }
+        double PromedioNotas = suma / contador;
+        Console.WriteLine($"El promedio de las notas es {PromedioNotas}");
+    }
+}
+*/
