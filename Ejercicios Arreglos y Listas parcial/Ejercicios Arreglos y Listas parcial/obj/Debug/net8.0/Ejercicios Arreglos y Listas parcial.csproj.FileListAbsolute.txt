@@ -1,0 +1,14 @@
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\bin\Debug\net8.0\Ejercicios Arreglos y Listas parcial.exe
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\bin\Debug\net8.0\Ejercicios Arreglos y Listas parcial.deps.json
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\bin\Debug\net8.0\Ejercicios Arreglos y Listas parcial.runtimeconfig.json
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\bin\Debug\net8.0\Ejercicios Arreglos y Listas parcial.dll
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\bin\Debug\net8.0\Ejercicios Arreglos y Listas parcial.pdb
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\obj\Debug\net8.0\Ejercicios Arreglos y Listas parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\obj\Debug\net8.0\Ejercicios Arreglos y Listas parcial.AssemblyInfoInputs.cache
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\obj\Debug\net8.0\Ejercicios Arreglos y Listas parcial.AssemblyInfo.cs
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\obj\Debug\net8.0\Ejercicios Arreglos y Listas parcial.csproj.CoreCompileInputs.cache
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\obj\Debug\net8.0\Ejercicios Arreglos y Listas parcial.dll
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\obj\Debug\net8.0\refint\Ejercicios Arreglos y Listas parcial.dll
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\obj\Debug\net8.0\Ejercicios Arreglos y Listas parcial.pdb
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\obj\Debug\net8.0\Ejercicios Arreglos y Listas parcial.genruntimeconfig.cache
+C:\Users\leosi\source\repos\Ejercicios Arreglos y Listas parcial\Ejercicios Arreglos y Listas parcial\obj\Debug\net8.0\ref\Ejercicios Arreglos y Listas parcial.dll
