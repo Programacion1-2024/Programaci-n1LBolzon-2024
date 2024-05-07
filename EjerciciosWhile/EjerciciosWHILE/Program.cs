@@ -117,7 +117,6 @@ class Program
 //informar el total adeudado.
 
 using System.Data;
-/*
 class Program
 {
     static void Main(string[] args)
@@ -132,15 +131,22 @@ class Program
                 Console.WriteLine("Ingrese el costo unitario ");
                 if (double.TryParse(Console.ReadLine()?.Replace(",", "."), out costoUnitario))
                 { 
-                        Console.WriteLine("Ingrese la cantidad de unidades compradas");
-                        if (int.TryParse(Console.ReadLine()?.Replace(",", "."), out unidadComprada))
+                        if (costoUnitario == 0)
                         {
-                            costoTotal += costoUnitario * unidadComprada;
+                        Console.WriteLine($"El total adeudado es de {costoTotal} pesos");
                         }
                         else 
                         {
+                            Console.WriteLine("Ingrese la cantidad comprada ");
+                            if (int.TryParse(Console.ReadLine()?.Replace(",", "."), out unidadComprada))
+                            {
+                            costoTotal += costoUnitario * unidadComprada;
+                            }
+                            else 
+                            {
                             Console.WriteLine("Ingrese un dato valido");
                             unidadComprada = 0;
+                            }
                         }
                 }            
                 else
@@ -149,10 +155,10 @@ class Program
                     costoUnitario = 1;
                 }
             }
-            Console.WriteLine($"El total adeudado es de {costoTotal} pesos");
+           ;
     }
 }
-*/
+
 
 
 
