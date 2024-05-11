@@ -78,12 +78,12 @@ class Program
     }
 }
 
-*/
+
 
 // Ejercicio 3 El usuario ingresará una lista de nombre de persona, cuando se ingresé un nombre vacío, sin datos; el sistema informará cuántos nombres de han ingresado.
-
+*/
 //using static System.Runtime.InteropServices.JavaScript.JSType;
-/*
+
 class Program
 {
     static void Main(string[] Args)
@@ -110,12 +110,12 @@ class Program
         Console.WriteLine($"la cantidad de nombres ingresados es {contador}");
     }
 }
-*/
+
 
 
 //Ejercicio 4: Para calcular el total de una factura, el usuario ingresará pares de datos Costo unitario y cantidad comprada; cuando se ingrese costo 0 finaliza el ingreso de datos;
 //informar el total adeudado.
-
+/*
 using System.Data;
 class Program
 {
@@ -159,6 +159,7 @@ class Program
     }
 }
 
+*/
 
 
 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosi\\source\\repos\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial.csproj",
+      "projectUniqueName": "C:\\Users\\leosi\\OneDrive\\Documentos\\GitHub\\Programaci-n1LBolzon-2024\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial.csproj",
       "projectName": "Ejercicios Arreglos y Listas parcial",
-      "projectPath": "C:\\Users\\leosi\\source\\repos\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial.csproj",
+      "projectPath": "C:\\Users\\leosi\\OneDrive\\Documentos\\GitHub\\Programaci-n1LBolzon-2024\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial.csproj",
       "packagesPath": "C:\\Users\\leosi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosi\\source\\repos\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial\\obj\\",
+      "outputPath": "C:\\Users\\leosi\\OneDrive\\Documentos\\GitHub\\Programaci-n1LBolzon-2024\\Ejercicios Arreglos y Listas parcial\\Ejercicios Arreglos y Listas parcial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -31,3 +31,36 @@ class Program
 */
 //Ejercicio 2: Filtrar números pares en una lista El usuario ingresará números enteros uno por uno. El programa debe solicitar al usuario que ingrese los números hasta que ingrese el número 0 para finalizar. Luego, debe mostrar los
 //números ingresados de mayor a menor en la consola. Si se ingresa un valor no válido, se mostrará un mensaje de error.
+
+using System.ComponentModel;
+
+class program
+{
+    static void Main(string[] args)
+    {
+        List<int> numerosPares = new List<int>();
+        int numero = 1;
+        Console.WriteLine("ingrese los numeros enteros de los cuales desea conocer cuales son pares, para finalizar ingrese 0 ");       
+        while (numero > 0)
+        {
+            if(int.TryParse(Console.ReadLine(), out numero))
+            {
+                if (numero % 2 == 0)
+                {
+                    numerosPares.Add(numero);
+                }
+            }
+            else
+            {
+                Console.WriteLine("el valor ingresado no es valido, debe ingresar un valor entero ");
+                numero = 1;
+            }
+        }
+        numerosPares.Sort(); numerosPares.Reverse();
+        Console.WriteLine($"Los numeros pares ingresados son los siguientes: ");
+        foreach (int pares in numerosPares)
+        {
+            Console.WriteLine(pares);
+        }
+    }
+}
