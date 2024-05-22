@@ -36,17 +36,35 @@
     {
         public static string Message(string logLine)
         {
-            throw new NotImplementedException("Please implement the (static) LogLine.Message() method");
+            string[] arregloLineas = logLine.Split(':'); //hago un arreglo y lo divido en 2 partes con el split para luego usar el segundo valor del arreglo
+            
+            string segundaLinea = arregloLineas[1];
+            string segundaLineaTrim = segundaLinea.Trim(); //el trim para sacar el espacio de la segunda linea del arreglo creado anteriormente
+            return segundaLineaTrim;
         }
 
         public static string LogLevel(string logLine)
         {
-            throw new NotImplementedException("Please implement the (static) LogLine.LogLevel() method");
+            string[] arregloLineas = logLine.Split(':'); //con 1 comilla trabaja caracteres 
+            string primeraLinea = arregloLineas[0];
+            string primeraLineaLimpia = primeraLinea.Replace("[","").Replace("]",""); //con 2 comillas trabaja strings (reemplazo los corchetes por valor vacio
+            string primeraLineaLimpiaMin = primeraLineaLimpia.ToLower(); //paso a minuscula 
+            return primeraLineaLimpiaMin;
         }
 
         public static string Reformat(string logLine)
         {
-            throw new NotImplementedException("Please implement the (static) LogLine.Reformat() method");
+            string primeraLinea = LogLevel(logLine); //uso funciones para no repetir codigo 
+            string segundaLinea = Message(logLine);
+
+            //string[] arregloLineas = logLine.Split(':');
+            //string segundaLinea = arregloLineas[1];
+            //segundaLinea.Trim();
+            //string primeraLinea = arregloLineas[0];
+            //primeraLinea.ToLower();
+           
+            return segundaLinea + " (" + primeraLinea + ")";
+           
         }
     }
 
