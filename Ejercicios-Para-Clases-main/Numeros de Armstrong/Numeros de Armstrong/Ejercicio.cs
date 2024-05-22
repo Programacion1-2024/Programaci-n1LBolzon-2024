@@ -23,7 +23,21 @@ namespace Numeros_de_Armstrong
     {
         public static bool IsArmstrongNumber(int number)
         {
-            throw new NotImplementedException("You need to implement this function.");
+
+                string digito = number.ToString();   //pasar el numero a string 
+                int Cantidaddigitos = digito.Length;    //contar los digitos 
+                int suma = 0;
+
+                foreach (char digitosChar in digito)  //para cada caracter de digitos en digito 
+                {
+                    int digit = int.Parse(digitosChar.ToString());     //convertir a entero
+                    suma += (int)Math.Pow(digit, Cantidaddigitos);
+                }
+                return suma == number;
+
+
+
+            }
         }
     }
-}
+
