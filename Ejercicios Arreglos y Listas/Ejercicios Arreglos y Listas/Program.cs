@@ -109,7 +109,7 @@ class Program
 
 //Ejercicio 4: Calcular promedio de notas utilizando una lista
 //Consigna: El usuario debe ingresar 5 notas. El programa debe calcular el promedio de estas notas y mostrarlo en la consola. Utiliza una lista para almacenar las notas.
-/*
+
 class Program
 {
     static void Main(string[] args)
@@ -137,4 +137,4 @@ class Program
         Console.WriteLine($"El promedio de las notas es {PromedioNotas}");
     }
 }
-*/
+
