@@ -26,9 +26,9 @@ namespace Dos_Por
     public static class TwoFer
     {
         // Para que los tests funcionen, primero necesitas asegurarte que el método Speak puede ser llamado sin ningun argumento o con un string como argumento
-        public static string Speak()
+        public static string Speak(string nombre = "vos")
         {
-            throw new NotImplementedException("You need to implement this function.");
+            return $"Una para {nombre}, una para mi.";
         }
     }
 }
