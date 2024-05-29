@@ -1,4 +1,6 @@
-﻿namespace Diferencias_de_Cuadrados
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace Diferencias_de_Cuadrados
 {
 
     /*
@@ -22,12 +24,23 @@
     {
         public static int CalculateSquareOfSum(int max)
         {
-            throw new NotImplementedException("You need to implement this function.");
+            
+            
+            int suma = Enumerable.Range(1, max).Sum();
+            double cuadradoSuma = Math.Pow(suma, 2);
+            return (int)cuadradoSuma;
+            
         }
 
         public static int CalculateSumOfSquares(int max)
         {
-            throw new NotImplementedException("You need to implement this function.");
+             CalculateSquareOfSum(max);
+            
+            return 
+            
+
+            
+              
         }
 
         public static int CalculateDifferenceOfSquares(int max)
