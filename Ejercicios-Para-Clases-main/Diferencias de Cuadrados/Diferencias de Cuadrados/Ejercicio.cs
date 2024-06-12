@@ -34,9 +34,13 @@ namespace Diferencias_de_Cuadrados
 
         public static int CalculateSumOfSquares(int max)
         {
-             CalculateSquareOfSum(max);
-            
-            return 
+            int sumaCuadrado = 0;
+            for (int i = 1; i <= max; i++)
+            {
+                sumaCuadrado += (int)Math.Pow(i, 2);
+            }
+
+            return sumaCuadrado;
             
 
             
@@ -45,7 +49,10 @@ namespace Diferencias_de_Cuadrados
 
         public static int CalculateDifferenceOfSquares(int max)
         {
-            throw new NotImplementedException("You need to implement this function.");
+            int sumaCuadrado = CalculateSumOfSquares(max);
+            int cuadradoSuma = CalculateSquareOfSum(max);
+
+            return cuadradoSuma - sumaCuadrado;
         }
     }
 }
