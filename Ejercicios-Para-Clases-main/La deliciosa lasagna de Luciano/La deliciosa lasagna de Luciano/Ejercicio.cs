@@ -21,11 +21,27 @@
     public class Lasagna
     {
         // TODO: definir el método 'ExpectedMinutesInOven()'
+        public int ExpectedMinutesInOven()
+        {
+            int tiempoEsperado = 40;
+            return tiempoEsperado;
+        }
 
         // TODO: definir el método  'RemainingMinutesInOven()'
-
+        public int RemainingMinutesInOven( int minutosReales)
+        {         
+          return ExpectedMinutesInOven() - minutosReales;
+        }
         // TODO: definir el método  'PreparationTimeInMinutes()'
+        public int PreparationTimeInMinutes(int capas)
+        {
+            return capas * 2;
+        }
 
         // TODO: definir el método  'ElapsedTimeInMinutes()'
+        public int ElapsedTimeInMinutes(int capas, int tiempo)
+        {
+            return PreparationTimeInMinutes(capas) + tiempo;
+        }
     }
 }
