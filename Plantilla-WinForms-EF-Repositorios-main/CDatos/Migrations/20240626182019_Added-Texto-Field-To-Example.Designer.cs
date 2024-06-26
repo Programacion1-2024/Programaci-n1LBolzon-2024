@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CDatos.Migrations
 {
-    [DbContext(typeof(ExampleContext))]
+    [DbContext(typeof(LibreriaContext))]
     [Migration("20240626182019_Added-Texto-Field-To-Example")]
     partial class AddedTextoFieldToExample
     {

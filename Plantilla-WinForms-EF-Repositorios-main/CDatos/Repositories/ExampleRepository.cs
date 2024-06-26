@@ -8,7 +8,7 @@ namespace CDatos.Repositories
     public class ExampleRepository : Repository<Example>, IExampleRepository
     {
 
-        public ExampleRepository(ExampleContext context) : base(context)
+        public ExampleRepository(LibreriaContext context) : base(context)
         {
             
         }

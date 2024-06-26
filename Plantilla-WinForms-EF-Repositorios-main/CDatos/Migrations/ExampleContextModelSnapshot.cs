@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CDatos.Migrations
 {
-    [DbContext(typeof(ExampleContext))]
+    [DbContext(typeof(LibreriaContext))]
     partial class ExampleContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

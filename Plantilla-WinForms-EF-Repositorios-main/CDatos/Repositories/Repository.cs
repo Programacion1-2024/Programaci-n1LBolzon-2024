@@ -7,9 +7,9 @@ namespace CDatos.Repositories
 {
     public abstract class Repository<T> : IRepository<T> where T : class
     {
-        protected ExampleContext _context { get; set; }
+        protected LibreriaContext _context { get; set; }
 
-        public Repository(ExampleContext context)
+        public Repository(LibreriaContext context)
         {
             this._context = context;
         }

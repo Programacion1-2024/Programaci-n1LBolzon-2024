@@ -42,7 +42,7 @@ namespace EjemploRepositorios
 
                     services.AddTransient<Form1>();
 
-                    services.AddDbContext<ExampleContext>(options => options.UseSqlServer("Data Source=PCGAMER\\SQLEXPRESS;Initial Catalog=EjemploRepositorios;Integrated Security=True;TrustServerCertificate=true"), ServiceLifetime.Transient);
+                    services.AddDbContext<LibreriaContext>(options => options.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Initial Catalog=LibreriaProg2024;Integrated Security=True;TrustServerCertificate=true"), ServiceLifetime.Transient);
                 });
         }
     }
