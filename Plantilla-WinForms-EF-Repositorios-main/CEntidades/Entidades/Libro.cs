@@ -13,6 +13,8 @@ namespace CEntidades.Entidades
         public string Descripcion { get; set; }
         public int AnioPublicacion { get; set; }
         public string Titulo { get; set; }
+
+        public ICollection<Autor> auto
        
     }
 }
