@@ -20,7 +20,7 @@ namespace CDatos.Contexts
         public virtual DbSet<Editorial> Editorial { get; set; }
         public virtual DbSet<Empleado> Empleado { get; set; }
         public virtual DbSet<FormaPago> FormaPago { get; set; }
-        public virtual DbSet<Genero> Genero { get; set; }
+        public virtual DbSet<Generos> Genero { get; set; }
         public virtual DbSet<Libro> Libro { get; set; }
         public virtual DbSet<Persona> Prestamo { get; set; }
         public virtual DbSet<Venta> Venta { get; set; }
