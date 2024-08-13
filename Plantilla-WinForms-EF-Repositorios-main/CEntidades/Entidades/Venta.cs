@@ -9,8 +9,12 @@ namespace CEntidades.Entidades
     public class Venta
     {
         public int IdVenta { get; set; }
-        public int MontoTotal { get; set; }
+        public double MontoTotal { get; set; }
         public DateTime FechaVenta { get; set; }
-        
+        public FormaPago FormaPago { get; set; }
+        public int IdFormaDePago { get; set; }
+        public Cliente Cliente { get; set; }
+        public Libro Libro { get; set; }
+        public Empleado Empleado { get; set; }
     }
 }

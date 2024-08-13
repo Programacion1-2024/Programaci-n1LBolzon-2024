@@ -14,8 +14,11 @@ namespace CEntidades.Entidades
         public long Dni { get; set;}
         public string Telefono { get; set;}
         public string Direccion { get; set;}
-
         public string Email { get; set; }
+        public Autor ? Autor {  get; set; }
+        public Cliente ? Cliente { get; set; }
+        public Empleado ? Empleado { get; set; }
+
 
     }
 }

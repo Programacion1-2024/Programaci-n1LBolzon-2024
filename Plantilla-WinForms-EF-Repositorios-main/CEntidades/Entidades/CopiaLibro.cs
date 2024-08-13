@@ -8,9 +8,10 @@ namespace CEntidades.Entidades
 {
     public class CopiaLibro
     {
-        public int IdLibro { get; set; }
+        public int IdCopiaLibro { get; set; }
         public int Cantidad { get; set; }
         public double Precio { get; set; }
+        public Libro Libro { get; set; } //Propiedad de navegación
 
     }
 }

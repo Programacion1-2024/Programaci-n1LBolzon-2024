@@ -11,6 +11,8 @@ namespace CEntidades.Entidades
         public int IdCliente { get; set; }
         public bool TieneMembrecia {  get; set; }
         public bool PagaIva {  get; set; }
+        public Persona Persona { get; set; }
+
 
     }
 }

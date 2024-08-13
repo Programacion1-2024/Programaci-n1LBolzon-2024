@@ -11,5 +11,7 @@ namespace CEntidades.Entidades
         public int IdEditorial { get; set; }
         public string descripcion { get; set; }
         public string contacto { get; set; }
+        public string direccion { get; set;}
+
     }
 }
