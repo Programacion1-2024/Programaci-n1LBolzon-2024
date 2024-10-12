@@ -1,4 +1,5 @@
-﻿namespace EjemploRepositorios
+﻿/*
+namespace EjemploRepositorios
 {
     partial class Form1
     {
@@ -44,3 +45,5 @@
         #endregion
     }
 }
+
+*/

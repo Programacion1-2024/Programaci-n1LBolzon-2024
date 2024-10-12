@@ -23,6 +23,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CDatos\CDatos.csproj" />
+    <ProjectReference Include="..\CEntidades\CEntidades.csproj" />
     <ProjectReference Include="..\CLogica\CLogica.csproj" />
   </ItemGroup>
 

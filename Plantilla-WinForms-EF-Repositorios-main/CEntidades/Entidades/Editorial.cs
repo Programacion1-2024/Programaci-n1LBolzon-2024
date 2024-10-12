@@ -12,6 +12,7 @@ namespace CEntidades.Entidades
         public string descripcion { get; set; }
         public string contacto { get; set; }
         public string direccion { get; set;}
+        public ICollection<Libro> Libros { get; set; }
 
     }
 }

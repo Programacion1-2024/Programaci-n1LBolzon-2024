@@ -8,7 +8,10 @@ namespace CEntidades.Entidades
 {
     public class Prestamo
     {
+        
+        
         public int IdPrestamo { get; set; }
+        public int IdPersona { get; set; }
         public int MontoTotal { get; set; }
         public DateTime FechaPrestamos { get; set; }
         public DateTime ? FechaDevolucion { get; set; }
@@ -17,6 +20,7 @@ namespace CEntidades.Entidades
         public FormaPago FormaPago { get; set; }
         public CopiaLibro CopiaLibro { get; set; }
         public Empleado Empleado { get; set; }
+        public Persona Persona { get; set; } // Propiedad de navegación
 
     }
 }

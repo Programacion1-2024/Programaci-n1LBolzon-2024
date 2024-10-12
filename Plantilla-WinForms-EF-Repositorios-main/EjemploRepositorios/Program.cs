@@ -1,14 +1,13 @@
 using CDatos.Repositories;
 using CDatos.Repositories.Contracts;
-using CLogica.Implementations;
-using CLogica.Contracts;
+
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
 using CDatos.Contexts;
 using Microsoft.EntityFrameworkCore;
 using System.Configuration;
-
+/*
 namespace EjemploRepositorios
 {
     internal static class Program
@@ -31,19 +30,21 @@ namespace EjemploRepositorios
             Application.Run(_serviceProvider.GetRequiredService<Form1>());
         }
 
-        static IHostBuilder CreateHostBuilder()
-        {
-            return Host.CreateDefaultBuilder()
-                .ConfigureServices((context, services) => {
+         static IHostBuilder CreateHostBuilder()
+         {
+             return Host.CreateDefaultBuilder()
+                 .ConfigureServices((context, services) => {
 
-                    services.AddTransient<IExampleLogic, ExampleLogic>();
+                     services.AddTransient<IExampleLogic, ExampleLogic>();
 
-                    services.AddTransient<IExampleRepository, ExampleRepository>();
+                     services.AddTransient<IExampleRepository, ExampleRepository>();
 
-                    services.AddTransient<Form1>();
+                     services.AddTransient<Form1>();
 
-                    services.AddDbContext<LibreriaContext>(options => options.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Initial Catalog=LibreriaProg2024;Integrated Security=True;TrustServerCertificate=true"), ServiceLifetime.Transient);
-                });
-        }
+                     services.AddDbContext<LibreriaContext>(options => options.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Initial Catalog=LibreriaProg2024;Integrated Security=True;TrustServerCertificate=true"), ServiceLifetime.Transient);
+                 });
+           }
+       
     }
 }
+*/

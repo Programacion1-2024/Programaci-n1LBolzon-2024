@@ -11,6 +11,7 @@ namespace CEntidades.Entidades
         public int IdGenero { get; set; }
         public string Descripcion { get; set; }
         public string Nombre { get; set; }
+        public ICollection<Libro> Libros { get; set; }
 
     }
 }

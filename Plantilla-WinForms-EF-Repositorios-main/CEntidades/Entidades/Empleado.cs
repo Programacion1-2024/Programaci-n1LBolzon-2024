@@ -12,7 +12,9 @@ namespace CEntidades.Entidades
         public double sueldo {  get; set; }
         public string Puesto { get; set; }
         public DateTime FechaIngreso { get; set; }
-        public Persona Persona { get; set; }
+        public Persona PersonaEmpleado { get; set; }
+        public ICollection<Prestamo> Prestamos { get; set; }
+        public ICollection<Venta> Ventas { get; set; }
 
     }
 }

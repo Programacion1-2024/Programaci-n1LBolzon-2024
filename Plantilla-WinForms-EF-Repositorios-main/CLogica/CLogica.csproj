@@ -11,4 +11,9 @@
     <ProjectReference Include="..\CEntidades\CEntidades.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+    <Folder Include="Implementations\" />
+  </ItemGroup>
+
 </Project>

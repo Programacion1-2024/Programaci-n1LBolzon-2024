@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CEntidades.Entidades
 {
-    public class AutorLibro
+    public class GenerosLibro
     {
-        public int IdAutorLibro { get; set; }
-        public int IdAutor {  get; set; }
-        public int IdLibro { get; set; } 
+        public int IdGeneroLibro { get; set; }
 
+        public int IdLibro { get; set; }
+        public int IdGenero { get; set; }
     }
 }

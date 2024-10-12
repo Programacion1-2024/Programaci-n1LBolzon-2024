@@ -1,6 +1,6 @@
 using CEntidades.Entidades;
-using CLogica.Contracts;
 
+/*
 namespace EjemploRepositorios
 {
     public partial class Form1 : Form
@@ -19,3 +19,4 @@ namespace EjemploRepositorios
         }
     }
 }
+*/
